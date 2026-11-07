@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "expense-tracker-cli"
+version = "1.0.0"
+description = "A JSON-backed expense tracker command-line application"
+requires-python = ">=3.9"
+
+[project.scripts]
+expense-tracker = "expense_tracker.main:run"
+tracker = "expense_tracker.main:run"
