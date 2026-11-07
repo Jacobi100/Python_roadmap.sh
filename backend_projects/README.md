@@ -16,11 +16,6 @@ a custom location, set the `EXPENSE_TRACKER_FILE` environment variable.
 - Validate input and negative or malformed amounts
 - Store amounts as integer cents to avoid floating-point rounding errors
 - Atomically save JSON data
-
-## Requirements
-
-- Python 3.9 or newer
-
 ## Run from source
 
 From this directory:
