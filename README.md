@@ -1,4 +1,4 @@
-#Python Learning Repository
+Python Roadmap.sh/Freecodecamp Repository
 
 This repository contains Python learning materials and practice exercises, organized from beginner fundamentals through lists and sequences, with a separate FreeCodeCamp workshop area.
 
@@ -99,15 +99,4 @@ By working through this repository, the learner should be able to:
 - Build simple object-oriented programs
 - Complete workshop exercises independently
 
-## How to Use
 
-1. Start with the fundamentals.
-2. Move through lists and sequence topics in order.
-3. Review the FreeCodeCamp workshop exercises separately.
-4. Run and edit the examples to test understanding.
-
-## Notes
-
-- This README can be updated to match the final folder structure.
-- Section names can be expanded if more topics are added later.
-- The workshop section is kept separate for easier navigation.
