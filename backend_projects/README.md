@@ -104,4 +104,6 @@ an empty expense list.
 
 ## Project submission
 
+https://roadmap.sh/projects/expense-tracker
+
 [Expense Tracker project specification and submission](https://roadmap.sh/projects/expense-tracker)
